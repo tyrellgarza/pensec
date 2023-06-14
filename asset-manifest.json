@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pensec/static/css/main.fa976ce3.css",
+    "main.js": "/pensec/static/js/main.fc4e3c6e.js",
+    "static/js/787.de49f271.chunk.js": "/pensec/static/js/787.de49f271.chunk.js",
+    "index.html": "/pensec/index.html",
+    "main.fa976ce3.css.map": "/pensec/static/css/main.fa976ce3.css.map",
+    "main.fc4e3c6e.js.map": "/pensec/static/js/main.fc4e3c6e.js.map",
+    "787.de49f271.chunk.js.map": "/pensec/static/js/787.de49f271.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa976ce3.css",
+    "static/js/main.fc4e3c6e.js"
+  ]
+}
